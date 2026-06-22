@@ -523,6 +523,64 @@ My current profile aligns well with AI/ML internship opportunities, while streng
 
 ## Outcome
 Generated an AI Job Discovery Dashboard with opportunity matching, market demand insights, skill-gap analysis, and personalized career recommendations.
+
+# Day 14 - AI Job Red Flag Detector
+
+## Objective
+Analyze job descriptions and company information to identify potential hiring risks and red flags.
+
+## What I Did
+- Collected a Job Description (JD)
+- Gathered company information
+- Performed AI-powered risk analysis
+- Reviewed red flags and positive signals
+- Generated interview validation questions
+
+## Key Learnings
+- Not every job opportunity is worth pursuing.
+- Company transparency and hiring practices matter.
+- AI can help evaluate opportunities before applying.
+
+## Outcome
+Generated a complete risk assessment report with risk score, red flags, positive signals, and interview questions.
+
+# Day 15 - Personal Life Analysis Consultant
+
+## Objective
+Learn structured report generation using detailed inputs, multi-step reasoning, and organized analysis.
+
+## What I Did
+- Provided personal profile information
+- Generated a comprehensive analysis report
+- Reviewed career, life patterns, and recommendations
+- Explored AI-based report generation techniques
+
+## Key Learnings
+- Better inputs produce better outputs.
+- Structured prompts improve report quality.
+- AI can generate detailed and organized reports.
+
+## Outcome
+Created a multi-section analysis report with insights, forecasts, and recommendations.
+
+# Day 16 - Stock Fundamental Research Skill
+
+## Objective
+Create a reusable Claude Custom Skill for structured stock fundamental analysis.
+
+## What I Did
+- Created the stock-fundamental-research skill
+- Added reusable research instructions
+- Tested the skill on a stock/company
+- Reviewed valuation, growth, risks, and ownership trends
+
+## Key Learnings
+- Custom Skills reduce repetitive prompting.
+- Reusable workflows improve productivity.
+- Structured frameworks produce consistent analysis.
+
+## Outcome
+Built a reusable stock research skill capable of generating professional fundamental analysis reports.
  
 ✅ Day 1 Completed  
 ✅ Day 2 Completed  
@@ -537,6 +595,9 @@ Generated an AI Job Discovery Dashboard with opportunity matching, market demand
 ✅ Day 11 Completed
 ✅ Day 12 Completed
 ✅ Day 13 Completed
+✅ Day 14 Completed
+✅ Day 15 Completed
+✅ Day 16 Completed
    
   
    
